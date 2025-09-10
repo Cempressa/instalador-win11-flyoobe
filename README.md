@@ -33,6 +33,7 @@ Acesse o repositório oficial:
 
 🔗 [Repositório Flyoobe no GitHub](https://github.com/builtbybel/Flyoobe)
 
+![Página para selecionar a versão da ISO](assets/Flyoobe.png)
 - Baixe o executável mais recente.
 - O Flyoobe permite instalar o Windows 11 ignorando requisitos como TPM e Secure Boot.
 
@@ -65,10 +66,12 @@ O Flyoobe ignora requisitos de hardware como TPM e Secure Boot.
 📁 Estrutura do Repositório
 instalador-win11-flyoobe/
 ├── assets/                  # Imagens usadas no tutorial
-│   ├── WIN11.png
-│   └── ISO_WIN11.png
+│   ├── Flyoobe.png
+│   ├── ISO_WIN11.png
+│   └── WIN11.png
 ├── instalador_gui.py        # Script principal com interface gráfica
 └── README.md                # Este arquivo
+
 👨‍💻 Autor
 Marcos – Indaiatuba/SP
 
