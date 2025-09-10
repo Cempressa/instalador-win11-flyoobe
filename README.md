@@ -20,11 +20,11 @@ Acesse o site oficial da Microsoft:
 
 🔗 [Download oficial da ISO do Windows 11](https://www.microsoft.com/pt-br/software-download/windows11)
 ![Página oficial de download do Windows 11](assets/WIN11.png)
+
+![Página oficial de download do Windows 11](assests/ISO_WIN11.png)
 - Clique em **"Baixar imagem ISO"**.
 - Selecione o idioma, por exemplo, Português - Brasil.
 - Escolha a versão **64 bits (x64)**.
-![Página oficial de download do Windows 11](ISO_WIN11.png)
-
 
 
 ### 🔹 Etapa 2: Baixar o Flyoobe
