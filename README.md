@@ -35,7 +35,7 @@ Acesse o repositório oficial:
 - Baixe o executável mais recente.
 - O Flyoobe permite instalar o Windows 11 ignorando requisitos como TPM e Secure Boot.
 
-### 🔹 Etapa 3: Executar o Script Python
+### 🔹 Etapa 3: Executar o Script Python - Atalho para os links
 
 No repositório, localize o arquivo `instalador_gui.py`. Para executá-lo:
 
