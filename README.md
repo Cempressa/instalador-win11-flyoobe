@@ -47,7 +47,8 @@ No repositório, localize o arquivo `instalador_gui.py`. Para executá-lo:
    python instalador_gui.py
 A interface gráfica será exibida com os links organizados à esquerda da tela.
 
-🔹 Etapa 4: Usar o Flyoobe
+###🔹 Etapa 4: Usar o Flyoobe
+
 Execute o Flyoobe como administrador e siga os passos:
 
 Escolha entre uma instalação limpa ou uma atualização.
