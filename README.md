@@ -24,7 +24,7 @@ Acesse o site oficial da Microsoft:
 - Selecione o idioma, por exemplo, Português - Brasil.
 - Escolha a versão **64 bits (x64)**.
 
-![Página oficial de download do Windows 11](assets/ISO_WIN11.png)
+![Página oficial de download do Windows 11](assets/WIN11.png)
 
 ### 🔹 Etapa 2: Baixar o Flyoobe
 
@@ -66,23 +66,3 @@ Execute o Flyoobe como administrador e siga os passos:
 ---
 
 ## 📁 Estrutura do Repositório
-
-````
-
-instalador-win11-flyoobe/
-├── assets/                  \# Imagens usadas no tutorial
-│   ├── WIN11.png
-│   └── ISO\_WIN11.png
-├── instalador\_gui.py        \# Script principal com interface gráfica
-└── README.md                \# Este arquivo
-
-```
-
----
-
-## 👨‍💻 Autor
-
-**Marcos – Indaiatuba/SP**
-
-Este projeto foi criado para facilitar a instalação do Windows 11 em qualquer PC.
-```
