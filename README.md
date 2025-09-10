@@ -23,7 +23,7 @@ Acesse o site oficial da Microsoft:
 - Clique em **"Baixar imagem ISO"**.
 - Selecione o idioma, por exemplo, Português - Brasil.
 - Escolha a versão **64 bits (x64)**.
-- ![Página oficial de download do Windows 11](ISO_WIN11.png)
+![Página oficial de download do Windows 11](ISO_WIN11.png)
 
 
 
