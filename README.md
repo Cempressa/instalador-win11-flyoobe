@@ -66,3 +66,17 @@ Execute o Flyoobe como administrador e siga os passos:
 ---
 
 ## 📁 Estrutura do Repositório
+instalador-win11-flyoobe/
+├── assets/                  # Imagens usadas no tutorial
+│   ├── WIN11.png
+│   └── ISO_WIN11.png
+├── instalador_gui.py        # Script principal com interface gráfica
+└── README.md                # Este arquivo
+
+---
+
+## 👨‍💻 Autor
+
+**Marcos – Indaiatuba/SP**
+
+Este projeto foi criado para facilitar a instalação do Windows 11 em qualquer PC.
